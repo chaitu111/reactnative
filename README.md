@@ -1,4 +1,5 @@
 Softwares Required
+
 ==================================
 1. JDK
 2. Android Studio
@@ -7,6 +8,7 @@ Softwares Required
 5. Genymotion
 6. Oracle VM VirtualBox
 7. Python
+
 =================================
 
 1. For the first time install the create-react-native-app command line utility
